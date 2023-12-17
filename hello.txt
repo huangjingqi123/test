@@ -1,3 +1,7 @@
 hello world
 adfacafdfa
+<<<<<<< HEAD
 dog woof
+=======
+people baga
+>>>>>>> people
